@@ -12,7 +12,7 @@ export default function About() {
       />
 
       <p className="text-lg text-gray-700 leading-relaxed">
-        嗨，我是 Cheryl曹哲甄，一位正在寫各種作業還有實驗然後瘋狂debug的可憐研究牲，今年又老了一歲。
+        嗨，我是 Cheryl曹哲甄，一位正在寫各種作業還有實驗的可憐研究牲，今年又老了一歲。
       </p>
     </div>
   );
