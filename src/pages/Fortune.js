@@ -111,7 +111,7 @@ setResult(parsed);
 
       {result && (
         <div className="mt-6 text-left whitespace-pre-wrap bg-gray-100 p-4 rounded shadow">
-          <strong>🔮 AI的不準占卜結果：</strong>
+          <strong>🔮 AI的超不準占卜結果：</strong>
           <p>{result}</p>
         </div>
       )}
