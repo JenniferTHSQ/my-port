@@ -29,3 +29,4 @@ function App() {
 }
 
 export default App;
+console.log("🚀 本次部署於", new Date().toLocaleString());
