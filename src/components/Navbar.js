@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation, useNavigate } from "react-router-dom";
-import { auth, onAuthStateChanged, signOut, db, doc, getDocs, collection } from "../firebase";
+import { auth, onAuthStateChanged, signOut, db, getDocs, collection } from "../firebase";
 
 function Navbar() {
   const location = useLocation();
